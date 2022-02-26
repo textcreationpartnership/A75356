@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anglia grata: or, A hearty-English-welcome to King William after a successful campaign</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75356</idno>
+            <idno type="STC">Wing A3177A</idno>
+            <idno type="STC">ESTC R230973</idno>
+            <idno type="EEBO-CITATION">99899764</idno>
+            <idno type="PROQUEST">99899764</idno>
+            <idno type="VID">136883</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136883)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2433:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anglia grata: or, A hearty-English-welcome to King William after a successful campaign</title>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by Richard Baldwin, near the Oxford-Arms-Inn in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:136883:1" rendition="simple:additions"/>
+            <p>
+               <hi>ANGLIA GRATA:</hi> OR, A Hearty-English-Welcome TO King William AFTER A Succeſsful Campaign</p>
+            <p>
+               <hi>LONDON:</hi> Printed, and are to be Sold by <hi>Richard Baldwin,</hi> near the <hi>Oxford-Arms-Inn</hi> in <hi>Warwick-Lane,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:136883:2"/>
+            <pb n="1" facs="tcp:136883:2"/>
+            <head>
+               <hi>ANGLIA GRATA:</hi> OR A Hearty-English-Welcome TO King William.</head>
+            <p>WElcome Great Prince from the Field of <hi>Mars!</hi> from the Re<g ref="char:EOLhyphen"/>nown'd Siege of <hi>Namur!</hi> co<g ref="char:EOLhyphen"/>ver'd with Laurels, and charg'd with Spoils; Victory waited only your Approach, Tri<g ref="char:EOLhyphen"/>umphs attend your Return, and Trophies are your Reward.</p>
+            <pb n="2" facs="tcp:136883:3"/>
+            <p>Thrice Welcome Great Sir, to a Joyful, Gallant and Grateful Nation! Who both know and prize your Worth. You are the Joy of Our Hearts! The Delight of Our Eyes! Our Good Genius! Guardian-Angel and Tu<g ref="char:EOLhyphen"/>telar Saint! Vollies of Huzza's, and Flouds of Mirth are ready for your Reception; Loud Acclamations Eccho ev'ry where, the Streets are fill'd with Nothing elſe; Joy ſparkles in our very Eyes, and Mirth dwels in our Hearts. Your Safety and Succeſs was the Bleſſing we pray'd for, and we have it. All <hi>Europe</hi> is concern'd for You, for You are The Soul of the Union, The Life of The League, The Dar<g ref="char:EOLhyphen"/>ling of the Soldiers, The Delight of the Of<g ref="char:EOLhyphen"/>ficers, and The Wonder of your Enemies. Thy Proweſs was early felt in the Field, Thy Courage and thy Conduct Stupendious in themſelves, were admir'd and own'd even by the Generals in Arms againſt Thee, who gave a laſting Character to thy Great Name. Great in the Camp! Great in the Court! and Wondrous-Great in the Cabinet. Thy Glories Darken and Eclipſe Thoſe of Thy Haughty-Enemy, and Cloud his Atchievements. Thou art the True Spur of Honour, and haſt rous'd
+<pb n="3" facs="tcp:136883:3"/>up the Martial-Spirit of Old-<hi>England,</hi> almoſt loſt and extinguiſh'd in the Late Lew'd and Eaſe and Luxury, the Conſtant Companions of thoſe Times. Nature her ſelf ſpeaks loud for you, New Prodigies appear; Whales leave the Sea, and come to thy Happy Land; New-Stars in our Horizon preſage Thy Fu<g ref="char:EOLhyphen"/>ture Greatneſs; New-Prophets ariſe and con<g ref="char:EOLhyphen"/>firm the ſame; Heaven and Earth, all the Four Elements Concur; New Poets adorn Thy Reign, and Celebrate Thy Praiſes, which ſhall be as long and laſting as Time it ſelf! New Songs are daily made in Honour of thy Illuſtrious Actions; Oracles are not ceas'd, which Predict the Bleſſings thou giveſt the World; the Age of Miracles is return'd, of True Ones too! No Cheats, or Impoſtures offer'd, all Natural and Genuine! Wondrous Things haſt thou perform'd, but Greater yet remain behind, for thy Hand and thy Head to Compleat; Great is the Care of Heaven over Thy Life, deſtin'd to Uncommon Acts! All the World reſounds with what is paſt, <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> is too Narrow and Confin'd, the whole Globe alone has but ſpace enough!</p>
+            <pb n="4" facs="tcp:136883:4"/>
+            <p>And Thou Great <hi>Apollo,</hi> inſpire me at this Time with Raptures, with Elevated Thought and Lofty Speech. The Theme it ſelf admits no Common-Words or Expreſſions; 'Tis God-like! All Divine! The Ancient Heroes all come ſhort of Thee! Great <hi>William!</hi> tho Fame and Merit pronounce Them truly Great. <hi>Alexander</hi> and <hi>Caeſar</hi> if here, wou'd cry and bluſh indeed, as they are both ſaid to have done, one for the Smallneſs of the World, and t'other for being ſo Old without a Name; Their Lawrels wou'd wither, and Yours, Great Sir, only remain Green: How Beautiful and Bright will your Glory ſtand in the Annals of Time! It needs no Hiſtory to Embeliſh it; each Campaigne brings Freſh Fame, and gives Renown above the Power and Reach of Words! Thy Actions ſpeak thee Great! and are the Beſt and Trueſt Heralds, the Cleareſt and Loudeſt-Trumpets. No Luſcious Lying-Poetry, or Baſe-Court or Town-Flattery, are requir'd to varniſh o're thy Story. The Simpleſt Colours and Plaineſt Words will do it beſt; and the Hearts of thy Subjects and thy For<g ref="char:EOLhyphen"/>reign Friends will be the Trueſt Tables, and Faireſt Books. Your Glories, Great Monarch,
+<pb n="5" facs="tcp:136883:4"/>are Unſpotted, and Unfullied, not the leaſt Tincture of Violence, Oppreſſion, or Injuſtice appears on Them; They are Virgin-White, Pure, and without Blemiſh. Such Mighty Merits without Allay, draw all Tongues, all Pens, all People, all Nations, both Sexes, and all Ages, the Preſent and the Future, to admire Great <hi>William.</hi>
+            </p>
+            <p>What a Glorious Pattern have you ſet! what a Royal-Example have you given! which to imitate will be difficult, but to come up to, almoſt Impoſsible. Your Sun is not yet arriv'd to his Meridian, but <hi>Lewis</hi>'s is long ſince paſt that Point, and haſtens apace to the Weſtern-World. He has already ſurviv'd his Glory, and out-liv'd his Good-Fortune, and now declines apace, will fall unpittied, un<g ref="char:EOLhyphen"/>lamented, and unreveng'd: He loaded with Curſes, and You, Royal Sir, crown'd with Praiſes, both at Home and Abroad. He Stinks and Putrifies, even while Alive, Your very Duſt will ſmell ſweet, beyond the Nobleſt Perfume. He Deſtroys, and you Preſerve. He Murders, and you keep Alive. He Robs his Neighbours, and you make him Reſtore. Your Great and Immortal-Anceſtor, <hi>William</hi>
+               <pb n="6" facs="tcp:136883:5"/>the Firſt, Your Great-Grand-Father, laid the Foundation of, and Eſtabliſh'd a Mighty Com<g ref="char:EOLhyphen"/>mon-wealth, and broke the Heart of the <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> Pride and Ambition, and ruin'd (with the kind Help of your Renown'd-Female-Predeceſſor) all his Pretenſions to Univerſal Empire. And you, Great Prince, are deſtin'd by Heaven to Preſerve that very Republick, and all <hi>Europe</hi> too, from their inſulting Neigh<g ref="char:EOLhyphen"/>bour, that in this Age threaten'd no leſs than the <hi>Auſtrians</hi> in the Laſt, both alike deceiv'd. You are the Bulwark of <hi>Europe,</hi> the <hi>Ne plus ultra</hi> to the <hi>Spaniards</hi> and <hi>French,</hi> Thoſe Stiff Contenders for more than comes to their ſhare, The Fifth Monarchy. If ever Prince merited ſuch an ample. Extent of Territory, ſurely King <hi>William</hi> has bid the Faireſt for it, Has moſt Suffrages, and ſeems to be intended for no leſs: At leaſt, thus much may be pro<g ref="char:EOLhyphen"/>nounced, and which will really be a greater Honour, Your Majeſty has it in your Royal Hand, to give a Happy and Welcome Peace to all <hi>Europe,</hi> which will more Embelliſh your Name and Character, than the Conqueſt of a New or an Abſolute Dominion over the Old World.</p>
+            <pb n="7" facs="tcp:136883:5"/>
+            <p>To enumerate Thy Vertues and Victories, Mighty Monarch, wou'd be to write the Hi<g ref="char:EOLhyphen"/>ſtory of Thy Matchleſs Life, fit only for the Pen of an Angel, or at leaſt ſomething more than Human, Who can penetrate into the ve<g ref="char:EOLhyphen"/>ry Receſſes of Thy Soul, and communicate to Us thy Faithful Subjects the Beauties of it.</p>
+            <p>'Twill exceed the Limits of a Panegyrick, to dwell upon this Glorious Theme, which wou'd ſoon ſwell into a Volume, 'tis ſo tranſ<g ref="char:EOLhyphen"/>por<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing; The Subject it ſelf warms all Loyal Grateful-Hearts, that are ſenſible what Great Things the King has done for Us: He has out-gon the Fam'd-<hi>Henry</hi>'s and Brave-<hi>Edwards</hi> too! Thoſe Gallant Princes, that ſtand ſo fair in <hi>Engliſh</hi>-Annals, that carried their Victorious Arms into the very Heart of <hi>France,</hi> and re<g ref="char:EOLhyphen"/>ceiv'd the <hi>Gallique</hi>-Crown at <hi>Paris.</hi>
+            </p>
+            <p>The Fam'd Battels of <hi>Seneffe, Mons,</hi> the <hi>Boyne</hi> and <hi>Landen,</hi> are True Teſtimonies of thy Undaunted Courage, which was Invinci<g ref="char:EOLhyphen"/>ble, though ſurrounded with Enemies, and charg'd with Trible the Number of thy Troops. The Spirit of Great <hi>William</hi> appear'd ev'ry where, from the Right to the Left, in the Front and the Rear, penetrating through,
+<pb n="8" facs="tcp:136883:6"/>and inſpiring the whole Army, from the Ge<g ref="char:EOLhyphen"/>neral to the Centinel, diffus'd all o're the Mighty Body was thy Native Warmth; Thy very Enemies pronounc'd Thee Inſuperable.</p>
+            <p>Straits and Difficulties though to others For<g ref="char:EOLhyphen"/>midable, You, Royal Sir, have vanquiſh'd and broke through; and though you have been inviron'd with many and mighty ones, both at Home and Abroad, e're ſince You drew Your Sword, and appear'd in Arms, in Field of <hi>Mars,</hi> yet Nothing was too hard for You to cope with. Your Conſtancy of Mind is not to be ſhaken, the ſame in Adverſe-Fortune as when ſhe Smiles; Your Patience above Price, and Your Reſolution Immoveable.</p>
+            <p>What Barrs and Remora's have you not met with, and remov'd? Have Cemented dif<g ref="char:EOLhyphen"/>ferent Opinions, Religions, Politiques and In<g ref="char:EOLhyphen"/>tereſts, and made 'em all one: Supplying the Weakneſs and Defect of ſome Members, with the Strength and Ability of Others; The Greateſt and Moſt Skilful, nay, and Succeſsful too, State-Phyſician in the Univerſe.</p>
+            <p>That Glorious Union now in <hi>Europe,</hi> ſo Terrible and Boding to the <hi>Bourbon</hi>-Houſe, You, Great Sir alone, have happily Conducted
+<pb n="9" facs="tcp:136883:6"/>and Continued againſt all the Efforts of <hi>France,</hi> which, nor her Power, Artifice or Gold cou'd e're diſſolve: Well may we call thee Bleſſed! Great! Good and Juſt! 'Tis you alone have baffled all the <hi>Gallique</hi> Engines, and this Them<g ref="char:EOLhyphen"/>ſelves are forc'd to own.</p>
+            <p>The Stopping the Victorious Arms of <hi>France,</hi> in the Former as well as Preſent War, the Stemming that Impetuous Tide of Conqueſt, and ſnatching the Lawrels from the Greateſt Generals of the Age, at the Head of the beſt Troops in the World, was ſurprizing and amazing, and this with Men Undiſciplin'd and Raw, without Officers or Soldiers, and at a Time ſo Fatal, when Civil-Commotions in<g ref="char:EOLhyphen"/>vade the State, and Threaten naught but Ruin: The Balm you brought Sir, heal'd all theſe Wounds, Forreign and Inteſtine; You reſtor'd Private-Peace and Publick too! You Fac'd your Foes in Field of Battel, repell'd 'em, and regain'd the Loſt Provinces!</p>
+            <p>But above All, and beyond Compare, was the Stupendious Revolution here at Home! How Swift Great Prince, You flew to Our Reſcue! How ſoon you came to Guard Us from Bondage and Deſtruction! Sav'd Our
+<pb n="10" facs="tcp:136883:7"/>Religion and Our Laws, Thoſe Ineſtimable Jewels, and with the Hazard of Your Royal Perſon, bravely contending with Winds and Waves, Ice and Snow! Your Hand alone preſerv'd Us from Impendent Danger, When You Our Glorious Sun appear'd, Our Foes ſoon Fled, quitted the Sacrifice, though near the Altar, and ran in Confuſion.</p>
+            <p>
+               <hi>Scotland</hi> and <hi>Ireland</hi> owe their Peace and Plenty to You, Rebels and Foreigners ex<g ref="char:EOLhyphen"/>pell'd and gon, nought reſiſts Your Conquer<g ref="char:EOLhyphen"/>ing Hand, Victory proud of Your Preſence, only wants to ſee you, and Fortune her ſelf, as blind as ſhe is thought, can find the Head fit only for Lawrels, can diſtinguiſh True from Falſe-Merit, and extend her Rewards; The Tribute ſhe brings and Lays at your Royal Feet, is but Your Due.</p>
+            <p>But what ſhall the <hi>Engliſh</hi> Nation return for Your Bounties and Royal Reſidence, for the Graces and Bleſſings that iſſue from Your Sacred Breaſt? For thy Strong Arm that De<g ref="char:EOLhyphen"/>fends and Protects them againſt their Cruel and Voracious Neighbour. Monuments ſhall be erected to thy Goodneſs, and to perpetuate thy Name and Hiſtory, more Coſtly and more
+<pb n="11" facs="tcp:136883:7"/>Durable, than ever yet were ſeen: Gold is too Mean, too Baſe, and too Cheap for thy Statue; Pearl and Diamonds too Common and Contemptible to be employ'd therein. New Mettals and more Refin'd, more Beautiful and more Laſting, will meet a Diſcovery for thy ſake alone. All <hi>England</hi> ſhall contribute to the Work, and Expreſs their Gratitude by their Generoſity.</p>
+            <p>The Senate is Impatient to let You into their Boſom, and thence to their Purſes open'd wide for your Service; New Honours are De<g ref="char:EOLhyphen"/>creed You, greater than <hi>Rome</hi> cou'd ever give, or <hi>Caeſar</hi> receive. All Hearts are Open, all Bags Untied, all Treaſuries Expanded to expreſs their Joy and Duty; More ſhall be given than Demanded; Supplies readily Voted, and early Levied, all ſwiftly dispatch'd to render Your Next-Campaigne the more Compleat. All Things ſhall concur to your very Wiſhes, and Your Majeſty ſhall have Freſh Experience of Our Loyalty and of Our Gratitude.</p>
+            <p>
+               <hi>Italy</hi> the once Renown'd Miſtreſs of the U<g ref="char:EOLhyphen"/>niverſe, ſends forth thy Eulogies, and by their Ambaſſadors Court Thy Alliance, and value Thy Friendſhip beyond all the Worlds; They
+<pb n="12" facs="tcp:136883:8"/>own their Obligations to Thy Conduct and Aſſiſtance, with Thy Formidable Fleets and Powerful Armies, they have regain'd <hi>Cazal,</hi> the Enemies Strongeſt Frontier, and almoſt ex<g ref="char:EOLhyphen"/>pell'd the Flutt'ring-<hi>French</hi> out of their Para<g ref="char:EOLhyphen"/>dice: Such Huge Navies were never heard of in Their Seas; The Sovereign Pontife Himſelf ſtood amaz'd at the Report of Their Approach, ſent his Compliments to the Ad<g ref="char:EOLhyphen"/>miral, and ever ſince has ſlighted <hi>Monſieur.</hi> The Rich and Mighty Duke of <hi>Florence,</hi> ſoon ſaw his True-Intereſt, and Embrac'd it; The State of <hi>Genoa</hi> Huff'd and Scorn'd by <hi>France</hi> in Former Times, tho lately much careſs'd, now nor Fears nor Values her Menaces, Slights her Amity, and Addreſſes K. <hi>William.</hi> The <hi>Venetian Republick</hi> politickly applies in Time to Thee, by her Envoys, and though deep in <hi>French</hi> In<g ref="char:EOLhyphen"/>tereſts, yet ſeems to abandon all, and haſtens to be a Party in this Happy Conjunction. Thy Royal-Armada has wrought more Real-Won<g ref="char:EOLhyphen"/>ders, than the Popiſh-Female-Virgin e're cou'd on That ſide, who deaf to all their Prayers, cou'd bring them no Aſſiſtance: But on the Oppoſite Coaſts, what Mighty Miracles has Thy Navy not produc'd? Taught Civility to
+<pb n="13" facs="tcp:136883:8"/>the Wild, the Barbarous and Unrefin'd; The <hi>Moors</hi> Themſelves Admire Thy Proweſs, A<g ref="char:EOLhyphen"/>dore Thy Perſon tho Diſtant, call Thee more than Man, and Little Leſs than God! Oft have they felt the <hi>Engliſh</hi> Power, and heard Their Cannon roar, but never yet ſo Great a Force United: <hi>Africk</hi>'s Amaz'd, haſts to Thy Feet, and begs Thy Protection.</p>
+            <p>
+               <hi>Spain</hi> thy Ancient-Enemy pays Thee Ado<g ref="char:EOLhyphen"/>rations more than Human, Flies for Refuge to Thy Arms; No more pretends to be In<g ref="char:EOLhyphen"/>vincible, but gives That to Thee; Her Power is loſt by Sea and Land, Her Navy dwindled into Galleys, and Thoſe almoſt to Cock-boats, no longer Formidable, Calls for Thy Royal Hand, and there alone can meet her Safety; Swallow'd in Part by her Devouring Neigh<g ref="char:EOLhyphen"/>bour, reſcu'd by Thee: At thy Fleets-Ap<g ref="char:EOLhyphen"/>proach, her Enemies ſneak'd away, Left her Ports, and haſten'd to Their Own, and there lie locked up, nor dare to peep Abroad, re<g ref="char:EOLhyphen"/>ſign Dominion all to Thy Prevailing Hand; Their Barricado's and Their Booms, Their Chains and Forts hardly can ſecure 'em; and thus Confin'd and Pris'ners-like, they lie in Harbor. New Courage comes to <hi>Spain,</hi> warms
+<pb n="14" facs="tcp:136883:9"/>her Drooping-Spirits, and bids her March to Glory; Inſpir'd by her Friends, ſhe gains New<g ref="char:EOLhyphen"/>Life, Flies to Arms, and beats her Foes; her very Peaſants are Victorious o're the <hi>French,</hi> defeat their Parties, then their Bodies, force 'em to abandon almoſt all they gain'd, and this before their Army takes the Field.</p>
+            <p>
+               <hi>Perſia</hi> and <hi>China</hi> are no Strangers to thy Proweſs; Whites, Blacks and Tawneys, all hear thy Fame; the Worlds Remoteſt Ends rehearſe Thy Name, Thy Sword reaches o're all the World; Whole Colonies of thy Ene<g ref="char:EOLhyphen"/>mies at once are rooted out in <hi>Canada</hi> no more pretend to fooling there; <hi>America</hi> calls Thee Lord alone, forgets the <hi>French,</hi> and quite diſ<g ref="char:EOLhyphen"/>owns Them; reſigns her Wealth to thy In<g ref="char:EOLhyphen"/>duſtrious Subjects, and Courts their Commerce.</p>
+            <p>
+               <hi>Flanders</hi> ows her Salvation only to Thy Arms; long ſince had ſhe been ſwallow'd up, a Morſel only, a Luſcious-bit for <hi>Lewis;</hi> ſhe pays Thee Equal-Honours with the <hi>Spaniſh</hi> Kings, Calls Thee her Protector, forgets her Ancient Jealouſy and Inbred Enmity, knows her Ruin was deſign'd by <hi>France,</hi> by Thee Preſerv'd, Supported and Defended; lays all her Angry Sentiments aſide, and courts Thy
+<pb n="15" facs="tcp:136883:9"/>Saving Hand; and though thy Anceſtors re<g ref="char:EOLhyphen"/>duc'd her Haughty Brow, reſtor'd Religion, Law and Liberty, taught her the beſt of Vir<g ref="char:EOLhyphen"/>tues, Humility: Yet You, Great Prince, are now the only Prop can bear her up; ſunk as ſhe was, ſhe pierks her Head, and by Your In<g ref="char:EOLhyphen"/>fluence receives New-Life, and hopes again to bid for Empire; Worried almoſt to Death by her Unruly Neighbour, is reſcu'd by Thy Potent-Hand alone. The <hi>Auſtrian</hi>-Eagles Tower aloft, Revive by your Aſſiſtance, and keep at Diſtance Infidels, and <hi>French,</hi> the Worſe ot'h Two, by Thy Succeſſes the Frontiers of <hi>Germany</hi> are ſecur'd.</p>
+            <p>Thy Native <hi>Holland</hi> by thee preſerv'd alone, skreen'd from their Raging Foe, and ſhelter'd from all Future Harms, pay their moſt Hearty Thanks, and own the Debts too great to be diſcharg'd in whole, the Intereſt only can be ſpar'd, the reſt ſhall all be faithfully made up by their Deſcendents, who with Duty and with Gratitude, ſhall all declare thy Worth. 'Twas you, Great Sir, that ſtem'd the Tide, that ſtartled all the World; the Flood of Power and <hi>Gallique</hi>-Force, was brought to ſtand at Bay by You; the <hi>Dutch</hi> took Breath, and ba<g ref="char:EOLhyphen"/>niſh'd
+<pb n="16" facs="tcp:136883:10"/>all their Fears; and though the Blows were ſmart and heavy, amazing and deſtru<g ref="char:EOLhyphen"/>ctive, repeated o're and o're, yet ſoon they were return'd; a Change was wrought, and all by your Commanding Hand; Your Breaſt was the Cabinet and the Treaſure too! Your Councils animated the Drooping State! Your Preſence in the Field was an Army, and made Troops tho in Themſelves Feeble, ſoon For<g ref="char:EOLhyphen"/>midable: And that which damp'd all ord'nary Courage, gave more heat to Thine; the Dif<g ref="char:EOLhyphen"/>ficulty of the Enterprize, was but an Earneſt of the Succeſs; You chang'd the Scene, and made 'em ſcorn the Thoughts of Peace, to which they had lent an Ear, tho neither Safe nor Ho<g ref="char:EOLhyphen"/>nourable: 'Twas You, Brave Prince, that was reſolv'd to hazard all, fall with the Cauſe, no<g ref="char:EOLhyphen"/>bly expire in Honour's-Bed, rather than ſub<g ref="char:EOLhyphen"/>mit to Terms ſo Infamous, ſo Baſe, and ſo De<g ref="char:EOLhyphen"/>ſtructive toward the True-Intereſt of your Na<g ref="char:EOLhyphen"/>tive-Land, of which you were the Sole and Valiant Guardian, Tender of Their Liberty and Their Trade. The People all inſpir'd by Thee, reſum'd freſh Vigor, and were ſure Thy Name alone wou'd them Preſerve, that 'twas the Virtue of thy Great-Fore-Father form'd
+<pb n="17" facs="tcp:136883:10"/>their State, and Yours was deſtin'd to recover it; And this You did, Immortal Sir; and now again, when <hi>France</hi> Pretends to Inſult her Peace<g ref="char:EOLhyphen"/>ful Neighbours, You beard the Monſter, force him recoil, and think of Peace in Time; and to that End, all Parties, all Intereſts are en<g ref="char:EOLhyphen"/>gag'd, no Stone unturn'd to gain his Aim, but all in vain; the Allies are now too weary grown, to be ſeduc'd again by his ſmooth and falſe Pretenſions of Amity; he muſt Reſtore, give up the Towns and Provinces which he unjuſtly ſeiz'd, and yet detains: The Sword will make him do it; No Faith can be allow'd him, His Honour and his Word are pawn'd and broke long ſince; His Oaths and Vows were made in Jeſt, and ſo not worth the keep<g ref="char:EOLhyphen"/>ing; The Preſent Union now in <hi>Europe,</hi> pro<g ref="char:EOLhyphen"/>miſes Great-Good, and Threatens <hi>France</hi> more than ever; She Trembles at the Proſpect ſo doleful and ſo hideous; her Force abates, her Strength and Heat declines apace, her Trea<g ref="char:EOLhyphen"/>ſures low, her Commerce loſt, and all make way for Ruin; all the World combine to ſtrip her of her Borrow'd Plumes, and make her only <hi>France</hi> her ſelf, a Land of Beauty, Wealth, and all that's good, but now Reduc'd, De<g ref="char:EOLhyphen"/>ſtroy'd,
+<pb n="18" facs="tcp:136883:11"/>and near abandon'd by her Prince's Pride and Cruelty; all muſt be Sacrific'd to his Flaming Glory, the Subjects Blood and Treaſure too little to aſſiſt; and this alone has been the Attractive of Their Neighbours Hate, <hi>England, Holland, Germany, Spain</hi> and <hi>Italy</hi> Unite againſt Him, reſolve to Humble and Abaſe him, and return their Rights to all the Injur'd Princes; and theſe Deſigns are Great and Noble, and haſten on apace to be Effected. What Shifts Poor <hi>Lewis</hi> makes to oppoſe his Angry Foes are plain to all the World; he drains his People's Pockets, and has Tax'd no leſs than Three of Four which We call Elements, Fire, Earth and Water, all ſubmit, and ſo muſt Air to his Long Arm, but that it cannot be confin'd. The <hi>Gallique</hi>-Church is Moody, Grumbles at the Long Continuance of the War, Appeals are ſent to <hi>Rome,</hi> where <hi>French</hi>-Intereſt falls, when it can no longer be ſupported by <hi>French</hi>-Coin; That Godly Court is very Greedy; Avarice and Pride attend the Place; <hi>Point d' Argent, Point d' Grace.</hi> No Money you muſt have no Fa<g ref="char:EOLhyphen"/>vour. A Happy Juncture of Affairs! Good Omens, Sure Prognoſticks of Future Good
+<pb n="19" facs="tcp:136883:11"/>Succeſs. The Glorious Campaign is almoſt near an End, and the Court of <hi>France</hi> in Pain for the Approaching, which menaces much deeper Wounds, bids 'em prepare for Fire and Sword. 'Twas They began the Sport, and if my Skill deludes me not, they will receive their due. The <hi>Gallique</hi> Crown begins to totter, and <hi>Lewis</hi> ſhakes in's Throne, Amaz'd to think that all his Perjuries, his Rapines and Oppreſſions are now a coming ſtrait to him: The Juſt Reward of all his Barbarous Acts is near at Hand, almoſt with<g ref="char:EOLhyphen"/>in his View; a State deplor'd he Feels, his Sentiments are all chagrin, he muſt for ever loſe hopes of Empire, all his Glory and his Flattring-Honour, are now envelop'd in the Clouds; The Riſing Sun no more ſhall be his Motto; He blazes, and he glares more like the Weſtern Light, appears no more in this Horizon.</p>
+            <p>And now Great <hi>William,</hi> the Tribute of all Loyal Hearts lies at Thy Royal-Feet, With Open-Arms We meet Thee, and with Thanks we load Thee. The Stupendious Siege of <hi>Namur</hi> Crowns Thy Fame, and ſpeaks Thee Wondrous-Great; The Manly, Fair and
+<pb n="20" facs="tcp:136883:12"/>Martial Taking of the Place, Inch by Inch, with Sword in Hand, and Hearts of Temper high as Steel; No Gold, No Treachery, No Artifice was us'd (like <hi>France</hi>) to hedge in Towns; but what reſounds more high, Re<g ref="char:EOLhyphen"/>lief though threatn'd, came too late, yet had the Pleaſure all to View the Place ſurren<g ref="char:EOLhyphen"/>der'd to their Foes; of Evidences no leſs than a Hundred Thouſand all in Arms, nor dar'd to ſtrike a Stroke to Save it; the Fate of <hi>Flanders</hi> and of <hi>France</hi> the ſame.</p>
+            <p>For This, Mighty Sir, all <hi>Europe</hi> ſtands engag'd to Your Happy-Conduct; All the World admires <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Your Bravery, and Gra<g ref="char:EOLhyphen"/>tulates Your Succeſs: Thy very Enemies own thy Merit. Unborn Babes are oblig'd to Thy Sword, which is now cutting out Peace and Proſperity to uſher them into the World; Bleſſings fit only to Adorn Thy God-like Reign; the Reſult of all thy Cares and Ha<g ref="char:EOLhyphen"/>zards ſo frequently repeated for Our Sakes; for which we all Huzza, <hi>Long Live King</hi> WILLIAM <hi>the Third.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:136883:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
